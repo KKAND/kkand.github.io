@@ -1,3 +1,12 @@
+---
+layout: post
+title: git and GitHub
+date: 2017-07-20  
+description: use git and GitHub better
+share: true
+tags: 
+ - Git
+---
 # Point in using git or GitHub
 
 ### GitHub for Windows [CN]

@@ -1,3 +1,12 @@
+---
+layout: post
+title: Linuxintro
+date: 2017-07-20 22:54:19 +08:00
+description: know about Linux
+share: true
+tags: 
+ - Linux
+---
 # Linux
 
 ### ubantu

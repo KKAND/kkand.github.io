@@ -1,2 +1,3 @@
-# Ignore site files
+_cache
 _site
+.idea
